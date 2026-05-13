@@ -31,7 +31,7 @@
 * RAG pipelines & AI agents
 * FastAPI backend architectures
 * End-to-end ML deployment
-
+* AI deployment & cloud technologies
 ---
 ## 🔥 Contribution Graph
 
